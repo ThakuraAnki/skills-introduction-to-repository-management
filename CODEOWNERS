@@ -1,0 +1,7 @@
+# Core functionality - changes here should be rare!
+/src/app.py                   @ThakuraAnki
+/src/backend/database.py      @ThakuraAnki
+/src/backend/routers/auth.py  @ThakuraAnki
+
+# The frontend will need refactored soon to be more object oriented.
+/src/static/   @ThakuraAnki
